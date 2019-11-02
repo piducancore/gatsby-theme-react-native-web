@@ -1,0 +1,18 @@
+{
+  "name": "gatsby-theme-react-native-web",
+  "description": "This theme adds support for building Gatsby sites using React Native components.",
+  "repository": "https://github.com/piducancore/gatsby-theme-react-native-web",
+  "version": "1.0.2",
+  "main": "index.js",
+  "author": "@piducancore",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.6.0"
+  },
+  "dependencies": {
+    "babel-plugin-react-native-web": "^0.11.7",
+    "gatsby-plugin-react-native-web": "^2.0.0-beta.0",
+    "react-native": "^0.61.2",
+    "react-native-web": "^0.11.7"
+  }
+}
