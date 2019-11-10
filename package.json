@@ -7,7 +7,7 @@
     "gatsby-theme",
     "react",
     "react-native",
-    "react-native-web",
+    "react-native-web"
   ],
   "version": "1.0.3",
   "main": "index.js",
