@@ -23,7 +23,7 @@ Once installed, add the theme as a plugin in your `gatsby-config.js`.
 ```javascript
 // gatsby-config.js
 module.exports = {
-  plugins: [`gatsby-plugin-react-native-web`],
+  plugins: [`gatsby-theme-react-native-web`],
 }
 ```
 
